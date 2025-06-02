@@ -6,7 +6,7 @@ Feel free to have a look around and make a pull request to add to the many featu
 
 # Special Acknowledgements
 
-[Killian Anderson](https://github.com/kandrsn99) - Main C++ contributor.
+[Killian Anderson](https://github.com/kandrsn99) - Main API developer.
 
 [Charles Law](https://github.com/claw726) - Main User Interface developer.
 
