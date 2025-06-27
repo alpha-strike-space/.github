@@ -13,4 +13,4 @@ Repositories: https://github.com/orgs/alpha-strike-space/repositories
 
 [Charles Law](https://github.com/claw726) - Main User Interface developer.
 
-You too many get your named added here for significant contributions through commits. 
+You too may get your name added here for significant contributions through commits by making pull requests. 
