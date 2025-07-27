@@ -9,8 +9,8 @@ Repositories: https://github.com/orgs/alpha-strike-space/repositories
 
 # Special Acknowledgements
 
-[Killian Anderson](https://github.com/kandrsn99) - Main Application Program Interface developer.
+[Killian Anderson](https://github.com/kandrsn99)
 
-[Charles Law](https://github.com/claw726) - Main User Interface developer.
+[Charles Law](https://github.com/claw726)
 
 You too may get your name added here for significant contributions through commits by making pull requests. 
